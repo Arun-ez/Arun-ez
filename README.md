@@ -79,7 +79,7 @@
 </p>
 
 
-<p aling="center">
+<p align="center">
 <img align="left" w="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-ez&show_icons=true&locale=en&layout=compact" alt="arun-ez" />
 <img align="center" w="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&" alt="arun-ez" />
 </p>
