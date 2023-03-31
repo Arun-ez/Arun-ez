@@ -1,7 +1,4 @@
-<div width="100%" height="200px" overflow="hidden">
-  <img aling="center" width="100%" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif" alt="banner"/>
-</div>
-
+<img aling="center" width="100%" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Arun Shaw</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
