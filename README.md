@@ -1,4 +1,4 @@
-<div width="100%">
+<div width="100%" h="200px" style="overflow:hidden">
   <img aling="center" width="100%" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif" alt="banner"/>
 </div>
 
