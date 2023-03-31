@@ -80,8 +80,8 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-ez&show_icons=true&locale=en&layout=compact" alt="arun-ez" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&" alt="arun-ez" />
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-ez&show_icons=true&locale=en&layout=compact" alt="arun-ez" />
+<img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&" alt="arun-ez" />
 </p>
 
 
