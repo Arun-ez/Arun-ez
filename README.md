@@ -47,7 +47,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+<img src="https://img.icons8.com/fluency/256/node-js.png" alt="nodejs" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
