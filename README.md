@@ -1,3 +1,5 @@
+<img aling="center" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif" alt="banner"/>
+
 <h1 align="center">Hi 👋, I'm Arun Shaw</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
