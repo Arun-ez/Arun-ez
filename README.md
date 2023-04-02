@@ -9,7 +9,7 @@
 
 - I’m currently learning **Web Development**
 
-- All of my projects are available at [https://portfolio-liart-zeta-50.vercel.app/](https://portfolio-liart-zeta-50.vercel.app/)
+- All of my projects are available at [https://portfolio-liart-zeta-50.vercel.app/](https://arunshaw.vercel.app/)
 
 -  Ask me about **React, JavaScript**
 
