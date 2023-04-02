@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/arun_shaw_19" target="blank"><img src="https://img.shields.io/twitter/follow/arun_shaw_19?logo=twitter&style=for-the-badge" alt="arun_shaw_19" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- I’m currently learning **Web Development**
 
 <!-- - 👨‍💻 All of my projects are available at [https://portfolio-liart-zeta-50.vercel.app/](https://portfolio-liart-zeta-50.vercel.app/) -->
 
-- 💬 Ask me about **React, JavaScript**
+-  Ask me about **React, JavaScript**
 
-- 📫 How to reach me **arunshaw433@gmail.com**
+-  How to reach me **arunshaw433@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
