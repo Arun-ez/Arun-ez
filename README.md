@@ -3,17 +3,19 @@
 <h1 align="center"> Hi, I'm Arun Shaw </h1>
 <h4 align="center"> An Aspiring Full Stack Web Developer from India, always willing to learn new technologies, explore new things, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer </h4>
 
+<font align="center"> An Aspiring Full Stack Web Developer from India, always willing to learn new technologies, explore new things, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer </font>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-ez&label=Profile%20views&color=0e75b6&style=flat" alt="arun-ez" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arun_shaw_19" target="blank"><img src="https://img.shields.io/twitter/follow/arun_shaw_19?logo=twitter&style=for-the-badge" alt="arun_shaw_19" /></a> </p>
 
 - Currently upscaling my knowledge on **React JS**
 
-- All of my projects are available [here ](https://arunshaw.vercel.app/)
+- All of my projects are available [here](https://arunshaw.vercel.app/)
 
 - Ask me about **React JavaScript**
 
-- How to reach me ` arunshaw433@gmail.com`
+- How to reach me `arunshaw433@gmail.com`
 
 
 <h3 align="left">Connect with me:</h3>
