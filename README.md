@@ -2,9 +2,7 @@
 
 <h1 align="center"> Hi, I'm Arun Shaw </h1>
 
-<span style="color:yellow">
-<font size="2"> An Aspiring Full Stack Web Developer from India, always willing to learn new technologies, explore new things, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer </font>
-<span/>
+<font size="2"> **An Aspiring Full Stack Web Developer from India, always willing to learn new technologies, explore new things, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer** </font>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-ez&label=Profile%20views&color=0e75b6&style=flat" alt="arun-ez" /> </p>
 
