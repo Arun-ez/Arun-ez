@@ -1,4 +1,5 @@
 <img aling="center" width="100%" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" alt="banner"/>
+<img aling="center" width="100%" src="https://github.com/Arun-ez/Arun-ez/blob/master/assets/banner.png" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Arun Shaw</h1>
 <h4 align="center"> An Aspiring Full Stack Web Developer from India, always willing to learn new technologies, explore new things, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer </h4>
