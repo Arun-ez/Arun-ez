@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/arun_shaw_19" target="blank"><img src="https://img.shields.io/twitter/follow/arun_shaw_19?logo=twitter&style=for-the-badge" alt="arun_shaw_19" /></a> </p>
 
-```bash
-
 - Currently upscaling my knowledge on `React JS`
 
 - All of my projects are available [here](https://arunshaw.vercel.app/)
@@ -17,7 +15,6 @@
 
 - How to reach me `arunshaw433@gmail.com`
 
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
