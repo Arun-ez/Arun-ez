@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/arun_shaw_19" target="blank"><img src="https://img.shields.io/twitter/follow/arun_shaw_19?logo=twitter&style=for-the-badge" alt="arun_shaw_19" /></a> </p>
 
-- Currently upscaling my knowledge on `React JS`
+- Currently upscaling my knowledge on **React JS**
 
-- All of my projects are available [here](https://arunshaw.vercel.app/)
+- All of my projects are available [here ](https://arunshaw.vercel.app/)
 
-- Ask me about `React` `JavaScript`
+- Ask me about **React JavaScript**
 
-- How to reach me `arunshaw433@gmail.com`
+- How to reach me ` arunshaw433@gmail.com`
 
 
 <h3 align="left">Connect with me:</h3>
