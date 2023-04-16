@@ -1,4 +1,4 @@
-<img aling="center" width="100%" src="https://github.com/Arun-ez/Arun-ez/blob/master/assets/banner.png" alt="banner"/>
+<img aling="center" width="100%" src="https://raw.githubusercontent.com/Arun-ez/Arun-ez/master/assets/banner.png" alt="banner"/>
 
 <h1 align="center"> Hi, I'm Arun Shaw </h1>
 
