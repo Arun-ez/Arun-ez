@@ -16,13 +16,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/arun-shaw" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/arun_shaw_19" target="blank"><img align="center" src="https://img.icons8.com/color/256/twitter--v3.png" alt="twitter" height="30" width="30" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/Arun.shaw.433/" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/facebook-new.png" alt="facebook" height="30" width="30" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/arun-shaw" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" height="30" width="30" /> </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://g.dev/arunez" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v07c44c7c1b3fe607b0ea91e300f4cf82edbe2da6334f7664661c6358babdf558/developers/images/touchicon-180.png" alt="google_developers" height="25" width="25" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/arun_shaw_19" target="blank"><img align="center" src="https://img.icons8.com/color/256/twitter--v3.png" alt="twitter" height="30" width="30" /> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/Arun.shaw.433/" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/facebook-new.png" alt="facebook" height="30" width="30" /> </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
