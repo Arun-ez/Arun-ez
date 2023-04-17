@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/Arun.shaw.433/" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/facebook-new.png" alt="arun-shaw" height="30" width="30" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dribbble.com/arunez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arunez" height="25" width="25" /></a>
+<a href="https://g.dev/arunez" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v07c44c7c1b3fe607b0ea91e300f4cf82edbe2da6334f7664661c6358babdf558/developers/images/touchicon-180.png" alt="arunez" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
