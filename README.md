@@ -86,4 +86,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" />
 </p>
 
-<p>&nbsp;<img width="70%" align="center" src="http://github-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" /></p>
+<p>&nbsp;<img width="70%" align="center" src="http://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" /></p>
