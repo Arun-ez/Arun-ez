@@ -6,9 +6,9 @@
 
 - Currently upscaling my knowledge on **React JS**
 
-- All of my projects are available [here](https://arunshaw.vercel.app/)
+- Take a look at my projects [here](https://arunshaw.vercel.app/)
 
-- Ask me about **React** , **JavaScript**
+- Let's talk about  #ReactJS #NextJS #JavaScript
 
 - How to reach me `arunshaw433@gmail.com`
 
