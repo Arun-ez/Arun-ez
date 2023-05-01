@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
+ 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" alt="html5" width="25" height="25"/>
 </a>
@@ -47,7 +47,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="30" height="30"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src=" https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" alt="nextjs" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
