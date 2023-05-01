@@ -51,7 +51,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src=" https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" alt="nextjs" width="30" height="30"/>
+<img src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" alt="nextjs" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
