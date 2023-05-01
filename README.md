@@ -8,7 +8,7 @@
 
 - Take a look at my projects [here](https://arunshaw.vercel.app/)
 
-- Let's talk about  #ReactJS #NextJS #JavaScript
+- Let's talk about  **#ReactJS**  **#NextJS**  **#JavaScript**
 
 - How to reach me `arunshaw433@gmail.com`
 
