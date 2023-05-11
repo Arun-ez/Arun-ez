@@ -63,7 +63,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=8rKdRqZFLurS&format=png" alt="mongodb" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=tBBf3P8HL0vR&format=png" alt="mongodb" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.chakra-ui.com/" target="_blank" rel="noreferrer">
