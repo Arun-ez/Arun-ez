@@ -39,7 +39,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+<img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="javascript" width="25" height="25"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
