@@ -31,7 +31,7 @@
 <p align="left">
  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="25" height="25"/>
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
