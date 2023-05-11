@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Arun Shaw </h1>
 
-<font size="2"> **An Aspiring Full Stack Web Developer from India, always willing to learn new technologies, explore new things, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer** </font>
+<font size="2"> **An Aspiring self motivated Full Stack Web Developer expertise on MERN Stack, like to explore new technologies, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer** </font>
 
 - Currently upscaling my knowledge on **React JS**
 
