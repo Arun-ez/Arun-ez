@@ -81,11 +81,6 @@
 
 </p>
 
-
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-ez&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" />
 </p>
