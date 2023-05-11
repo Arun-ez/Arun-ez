@@ -81,8 +81,8 @@
 
 </p>
 
-<p align="center" width="80%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" />
+<p align="center" width="100%">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=github_dark&count_private=true&hide_border=false" alt="arun-ez" />
 </p>
 
 <p align="center">
