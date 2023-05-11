@@ -35,7 +35,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/stickers/256/css3.png" alt="css3" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
