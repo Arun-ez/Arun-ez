@@ -43,7 +43,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=13679&format=png" alt="java" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
