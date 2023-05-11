@@ -47,7 +47,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png" alt="reactjs" width="30" height="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
