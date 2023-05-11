@@ -86,5 +86,5 @@
 </p>
 
 <p align="center" width="100%">
-<img width="70%" src="https://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=dark&count_private=true&hide_border=true" alt="arun-ez" />
+<img width="70%" src="https://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=holi&count_private=true&hide_border=true" alt="arun-ez" />
 </p>
