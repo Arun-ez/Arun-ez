@@ -5,7 +5,25 @@
   | [🌏 Website](https://arunshaw.vercel.app/) |[✉️ Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arunshaw433%40gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/arun-shaw-67a353278/)|
   |-|-|-|
 
+## Languages
+- HTML
+- CSS
+- JavaScript, Node Js
+- Java
 
+## Frameworks and Libraries
+- React JS
+- Next JS
+- Redux
+- Express JS
+- ChakraUI
+- Tailwind CSS
+- AppWrite
+- Supabase
+ 
+## Databases
+- MongoDB
+  
 
     - Currently upscaling my knowledge on **React JS**
 
