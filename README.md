@@ -1,22 +1,19 @@
 # Arun Shaw
-<img aling="center" width="100%" src="https://i.imgur.com/Gct6p0i.png" alt="banner"/>
-
-<h1 align="center"> Hi, I'm Arun Shaw </h1>
-
 <font size="2"> **An Aspiring self motivated Full Stack Web Developer expertise on MERN Stack, like to explore new technologies, taking new challenges, currently looking forward to work on a company as a MERN Stack Developer** </font>
 
-- Currently upscaling my knowledge on **React JS**
+
+  | [🌏 Website](https://arunshaw.vercel.app/) |[✉️ Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arunshaw433%40gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/arun-shaw-67a353278/)|
+  |-|-|-|
+
+
+
+    - Currently upscaling my knowledge on **React JS**
 
 - Take a look at my projects [here](https://arunshaw.vercel.app/)
 
 - Let's talk about  **#ReactJS**  **#NextJS**  **#JavaScript**
 
 - How to reach me `arunshaw433@gmail.com`
-
-
-  | [🌏 Website](https://arunshaw.vercel.app/) |[✉️ Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arunshaw433%40gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/arun-shaw-67a353278/)|
-  |-|-|-|
-    
 
 
 <h3 align="left">Connect with me:</h3>
