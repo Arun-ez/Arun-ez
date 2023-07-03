@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/arun-shaw-60ba64240" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" height="35" width="35" /> </a>
+<a href="https://www.linkedin.com/in/arun-shaw-67a353278/" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" height="35" width="35" /> </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://g.dev/arunez" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v07c44c7c1b3fe607b0ea91e300f4cf82edbe2da6334f7664661c6358babdf558/developers/images/touchicon-180.png" alt="google_developers" height="25" width="25" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
