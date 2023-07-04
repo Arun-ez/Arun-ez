@@ -1,8 +1,7 @@
 # Arun Shaw
 <font size="2"> **An Aspiring self motivated Full Stack Web Developer expertise on MERN Stack, I always like to upscale my knowledge by exploring latest technologies. Apart from this I also having a problem solving mindset, taking new challenges, resolving issues currently looking forward to work on a company as a MERN Stack Developer** </font>
 
-[View Projects(https://arunshaw.vercel.app/#projects)] 
-
+<a href='https://arunshaw.vercel.app/#projects'> View Projects </a>
 
   | [🌏 Website](https://arunshaw.vercel.app/) | [📩 Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arunshaw433%40gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/arun-shaw-67a353278/) | [💭 Whatsapp](https://wa.me/9748541891) |
   |-|-|-|-|
