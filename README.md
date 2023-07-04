@@ -37,7 +37,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-<img width="40%" height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=holi-theme&count_private=true&hide_border=true&border_radius=10" alt="arun-ez" />
+<img width="40%" height=320 src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=holi-theme&count_private=true&hide_border=true&border_radius=10" alt="arun-ez" />
 <img width="40%" height=300 src="https://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=holi&count_private=true&hide_border=true&border_radius=10&line_height=30&text_bold=false&hide_title=true" alt="arun-ez" />
 </div>
 
