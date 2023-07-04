@@ -36,6 +36,8 @@
 <a href="https://www.facebook.com/Arun.shaw.433/" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/facebook-new.png" alt="facebook" height="30" width="30" /> </a>
 </p>
 
+## Github Statisticks
+
 <div style="display: flex; align-items: center; justify-content: center; height: 400">
 <img width="40%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=holi-theme&count_private=true&hide_border=true&border_radius=10" alt="arun-ez" />
 <img width="40%" height="100%" src="https://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=holi&count_private=true&hide_border=true&border_radius=10&line_height=29&text_bold=false&hide_title=true" alt="arun-ez" />
