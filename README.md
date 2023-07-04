@@ -41,9 +41,9 @@
 
 
 <p align="center" width="100%">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=holi-theme&count_private=true&hide_border=true&border_radius=20" alt="arun-ez" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=holi-theme&count_private=true&hide_border=true&border_radius=10" alt="arun-ez" />
 </p>
 
 <p align="center" width="100%">
-<img width="70%" src="https://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=holi&count_private=true&hide_border=true&border_radius=20&line_height=30&text_bold=false&hide_title=true" alt="arun-ez" />
+<img width="70%" src="https://arun-ez-readme-stats.vercel.app/api?username=arun-ez&show_icons=true&locale=en&theme=holi&count_private=true&hide_border=true&border_radius=10&line_height=30&text_bold=false&hide_title=true" alt="arun-ez" />
 </p>
