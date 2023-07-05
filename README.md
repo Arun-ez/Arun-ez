@@ -44,7 +44,7 @@
 <a href="https://www.facebook.com/Arun.shaw.433/" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/facebook-new.png" alt="facebook" height="30" width="30" /> </a>
 </p>
 
-## Github Statisticks
+## Github Statistics
 
 <div style="display: flex; align-items: center; justify-content: center; height: 400">
 <img width="45%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-ez&theme=holi-theme&count_private=true&hide_border=true&border_radius=10" alt="arun-ez" />
