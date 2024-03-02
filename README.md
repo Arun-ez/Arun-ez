@@ -26,6 +26,7 @@
 - MongoDB
 
 ## Tools
+- Aws
 - Git
 - Vercel
 - Netlify
