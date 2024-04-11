@@ -48,5 +48,5 @@
 ## Github Statistics
 
 <div style="display: flex; align-items: center; justify-content: center; height: 400">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arun-ez" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Arun-ez" alt="GitHub Streak" />
 </div>
