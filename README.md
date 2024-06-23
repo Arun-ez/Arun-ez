@@ -1,3 +1,11 @@
+
+<div align="center">
+  <br />
+      <img src="https://cdn.arunshaw.in/1dd4992c-0463-492c-ba57-4bbc9c18d484" alt="Profile Banner">
+  <br />
+</div>
+
+
 # Arun Shaw
 <font size="2"> An Aspiring self motivated Full Stack Web Developer expertise on MERN Stack, I always like to upscale my knowledge by exploring latest technologies. Apart from this I also having a problem solving mindset, taking new challenges, resolving issues. Currently looking forward to work and grow with a company </font>
 
