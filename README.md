@@ -101,7 +101,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-datasette 0.64.8
+- datasette 0.64.8
 
 </td><td valign="top" width="34%">
 
