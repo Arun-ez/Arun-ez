@@ -123,6 +123,4 @@
 
 <hr/>
 
-<img src="https://www.arunshaw.in/favicon.ico" />
-
-
+<p> Thanks for visiting my profile </p>
