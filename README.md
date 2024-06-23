@@ -66,8 +66,8 @@
 ## GitHub Stats:
 
 <div>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Arun-ez&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Arun's GitHub stats" style="display: inline-block;" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-ez&theme=github_dark_dimmed&hide_border=false" alt="Arun's GitHub streak stats" style="display: inline-block;" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Arun-ez&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Arun's GitHub stats" style="display: inline-block;" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-ez&theme=github_dark_dimmed&hide_border=false" alt="Arun's GitHub streak stats" style="display: inline-block;" />
 </div>
 
 
