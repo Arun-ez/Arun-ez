@@ -63,7 +63,7 @@
 
 </table>
 
-## GitHub Stats:
+### GitHub Stats:
 
 <table>
   <tr>
