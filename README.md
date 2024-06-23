@@ -97,7 +97,7 @@
 
 </table>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 ### Frontend
 
@@ -107,7 +107,7 @@
 - Java
 
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="100%">
 
 ### Backend
 
