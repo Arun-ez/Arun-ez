@@ -97,7 +97,7 @@
       <p> 
         Lets implement Google sign in functionality in a the React application without any external library. I will be using Google OAuth 2.0 and Google apis to integrate it in our NodeJs application and at the end we will be calling our nodejs endpoints from out frontend applications like React, Angular, Vue or our vanilla JavaScript.
       </p>
-      <a href="https://blog.arunshaw.in/blog/google-oauth-with-nodejs-and-react" target="_blank"> Read </a>
+      <a href="https://blog.arunshaw.in/blog/google-oauth-with-nodejs-and-react" target="_blank"> Read ↗ </a>
     </td>
     <td>
       <img src="https://cdn.arunshaw.in/5e446b06-d7d7-4e1f-9779-b73ab75a5333" />
@@ -109,7 +109,7 @@
       <p> 
         An extensive guide to upload files and retrieve the public url after upload, update and delete a file from AWS S3 Bucket.
       </p>
-      <a href="https://blog.arunshaw.in/blog/aws-s3-file-upload-with-nodejs-and-react" target="_blank"> Read </a>
+      <a href="https://blog.arunshaw.in/blog/aws-s3-file-upload-with-nodejs-and-react" target="_blank"> Read ↗ </a>
     </td>
     <td>
       <img src="https://cdn.arunshaw.in/77ca3b6b-1ae7-4a10-a6e4-e5145ac8013d" />
