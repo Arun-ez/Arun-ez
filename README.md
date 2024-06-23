@@ -80,6 +80,7 @@
   <tr>
     <td>
     ## Google OAuth with Nodejs and React
+      <br/>
     > Lets implement Google sign in functionality in a the React application without any external library. I will be using Google OAuth 2.0 and Google apis to integrate it in our NodeJs application and at the end we will be calling our nodejs endpoints from out frontend applications like React, Angular, Vue or our vanilla JavaScript.
     </td>
     <td>
