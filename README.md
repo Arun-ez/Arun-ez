@@ -77,6 +77,7 @@
 </table>
 
 ### Popular Blogs :
+[Check latest blogs](https://blog.arunshaw.in)
 
 <table>
   <tr>
