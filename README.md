@@ -120,7 +120,7 @@
 - AppWrite
 - Supabase
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="600px">
 
 ### Tools
 
