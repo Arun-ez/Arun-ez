@@ -64,8 +64,27 @@
 </table>
 
 ## GitHub Stats:
+
+<table>
+
+<tr>
+
+<td valign="top" width="400px">
 ![](https://github-readme-stats.vercel.app/api?username=Arun-ez&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</td>
+
+<td valign="top" width="400px">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arun-ez&theme=github_dark_dimmed&hide_border=false)<br/>
+</td>
+
+
+</tr>
+
+</table>
+
+
+
+
 
 
 
