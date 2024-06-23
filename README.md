@@ -117,7 +117,7 @@
   </tr>
 </table>
 
-[Check latest blogs](https://blog.arunshaw.in) ↗
+<a href="https://blog.arunshaw.in" style="text-align: center; display: block;"> Checkout my latest blogs </a>
 
 
 
