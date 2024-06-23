@@ -117,7 +117,7 @@
   </tr>
 </table>
 
-⇛ [Check latest blogs](https://blog.arunshaw.in) ➜ 
+⇛ [Check latest blogs](https://blog.arunshaw.in) ↗
 
 
 
