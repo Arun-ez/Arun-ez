@@ -63,7 +63,7 @@
 
 </table>
 
-### GitHub Stats:
+### GitHub Stats :
 
 <table>
   <tr>
@@ -76,11 +76,25 @@
   </tr>
 </table>
 
+### Blogs :
+
 <table>
   <tr>
     <td>
+      <h2> Deploy NodeJs Application in EC2 with HTTPS(SSL) and CI/CD : A Comprehensive Guide </h2>
+      <p> 
+        Learn how to deploy a Node.js application on AWS EC2 with HTTPS for secure connections and implement a CI/CD pipeline for seamless updates. This step-by-step guide covers everything from setting up your EC2 instance and installing Node.js, to configuring NGINX for HTTPS and SSL certificates, and automating your deployment process using popular CI/CD tools. Perfect for developers looking to streamline their deployment process and enhance security.
+      </p>
+    </td>
+    <td>
+      <img src="https://cdn.arunshaw.in/20ab17f7-91f8-4f62-82dd-0cadb5793696" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h2> Google OAuth with Nodejs and React </h2>
-      <p> Lets implement Google sign in functionality in a the React application without any external library. I will be using Google OAuth 2.0 and Google apis to integrate it in our NodeJs application and at the end we will be calling our nodejs endpoints from out frontend applications like React, Angular, Vue or our vanilla JavaScript.
+      <p> 
+        Lets implement Google sign in functionality in a the React application without any external library. I will be using Google OAuth 2.0 and Google apis to integrate it in our NodeJs application and at the end we will be calling our nodejs endpoints from out frontend applications like React, Angular, Vue or our vanilla JavaScript.
       </p>
     </td>
     <td>
@@ -89,22 +103,13 @@
   </tr>
   <tr>
     <td>
-      <h2> Google OAuth with Nodejs and React </h2>
-      <p> Lets implement Google sign in functionality in a the React application without any external library. I will be using Google OAuth 2.0 and Google apis to integrate it in our NodeJs application and at the end we will be calling our nodejs endpoints from out frontend applications like React, Angular, Vue or our vanilla JavaScript.
+      <h2> AWS S3 File Upload With NodeJs and React </h2>
+      <p> 
+        An extensive guide to upload files and retrieve the public url after upload, update and delete a file from AWS S3 Bucket.
       </p>
     </td>
     <td>
-      <img src="https://cdn.arunshaw.in/5e446b06-d7d7-4e1f-9779-b73ab75a5333" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h2> Google OAuth with Nodejs and React </h2>
-      <p> Lets implement Google sign in functionality in a the React application without any external library. I will be using Google OAuth 2.0 and Google apis to integrate it in our NodeJs application and at the end we will be calling our nodejs endpoints from out frontend applications like React, Angular, Vue or our vanilla JavaScript.
-      </p>
-    </td>
-    <td>
-      <img src="https://cdn.arunshaw.in/5e446b06-d7d7-4e1f-9779-b73ab75a5333" />
+      <img src="https://cdn.arunshaw.in/77ca3b6b-1ae7-4a10-a6e4-e5145ac8013d" />
     </td>
   </tr>
 </table>
