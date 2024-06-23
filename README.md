@@ -49,7 +49,7 @@
 <a href="https://g.dev/arunez" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v07c44c7c1b3fe607b0ea91e300f4cf82edbe2da6334f7664661c6358babdf558/developers/images/touchicon-180.png" alt="google_developers" height="25" width="25" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<div style="display: flex;">
+<div style="display: inline;">
 
   <div style="flex: 1; min-width: 250px;">
     <h3>Frontend</h3>
