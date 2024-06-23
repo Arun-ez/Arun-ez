@@ -49,6 +49,47 @@
 <a href="https://g.dev/arunez" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v07c44c7c1b3fe607b0ea91e300f4cf82edbe2da6334f7664661c6358babdf558/developers/images/touchicon-180.png" alt="google_developers" height="25" width="25" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<div style="display: flex; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Frontend</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript, Node Js</li>
+      <li>Java</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Backend</h3>
+    <ul>
+      <li>React JS</li>
+      <li>Next JS</li>
+      <li>Redux</li>
+      <li>Express JS</li>
+      <li>ChakraUI</li>
+      <li>Tailwind CSS</li>
+      <li>AppWrite</li>
+      <li>Supabase</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Tools</h3>
+    <ul>
+      <li>AWS</li>
+      <li>Git</li>
+      <li>Nginx</li>
+      <li>Vercel</li>
+      <li>Netlify</li>
+      <li>Render</li>
+      <li>Postman</li>
+    </ul>
+  </div>
+
+</div>
+
 <table width="100%">
 
 <tr>
