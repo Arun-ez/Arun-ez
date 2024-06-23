@@ -85,7 +85,7 @@
       <p> 
         Learn how to deploy a Node.js application on AWS EC2 with HTTPS for secure connections and implement a CI/CD pipeline for seamless updates. This step-by-step guide covers everything from setting up your EC2 instance and installing Node.js, to configuring NGINX for HTTPS and SSL certificates, and automating your deployment process using popular CI/CD tools. Perfect for developers looking to streamline their deployment process and enhance security.
       </p>
-      <a href="https://blog.arunshaw.in/blog/deploy-nodejs-application-in-ec2-with-httpsssl-and-cicd-a-comprehensive-guide" target="_blank"> Read </a>
+      <a href="https://blog.arunshaw.in/blog/deploy-nodejs-application-in-ec2-with-httpsssl-and-cicd-a-comprehensive-guide" target="_blank"> Read ↗ </a>
     </td>
     <td>
       <img src="https://cdn.arunshaw.in/20ab17f7-91f8-4f62-82dd-0cadb5793696" />
