@@ -123,4 +123,6 @@
 
 <hr/>
 
+<img src="https://www.arunshaw.in/favicon.ico" />
+
 
