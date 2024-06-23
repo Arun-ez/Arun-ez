@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-### Latest Blogs :
+### Popular Blogs :
 
 <table>
   <tr>
