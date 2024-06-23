@@ -81,5 +81,16 @@
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Arun-ez&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-ez&theme=github_dark_dimmed&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
 
 
