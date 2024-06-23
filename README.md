@@ -123,4 +123,7 @@
 
 <hr/>
 
-<p> Thanks for visiting my profile </p>
+<p align="center">
+  Grateful for your visit! Let's keep the coding spirit alive.
+</p>
+
