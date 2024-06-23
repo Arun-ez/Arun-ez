@@ -122,21 +122,16 @@
 
 </td><td valign="top" width="33%">
 
-### TIL
-<!-- tils starts -->
-[Running Prettier against Django or Jinja templates](https://til.simonwillison.net/npm/prettier-django) - 2024-06-20
+### Tools
 
-[Upgrade Postgres.app on macOS](https://til.simonwillison.net/postgresql/upgrade-postgres-app) - 2024-06-16
+- Aws
+- Git
+- Nginx
+- Vercel
+- Netlify
+- Render
+- Postman
 
-[Cloudflare redirect rules with dynamic expressions](https://til.simonwillison.net/cloudflare/redirect-rules) - 2024-05-29
-
-[Listen to a web page in Mobile Safari](https://til.simonwillison.net/ios/listen-to-page) - 2024-05-21
-
-[How I studied for my Ham radio general exam](https://til.simonwillison.net/ham-radio/general) - 2024-05-11
-
-[Transcribing MP3s with whisper-cpp on macOS](https://til.simonwillison.net/macos/whisper-cpp) - 2024-04-26
-<!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 
 
