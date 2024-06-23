@@ -118,7 +118,7 @@
 </table>
 
 <p align="center">
-  <a href="https://blog.arunshaw.in"> Checkout my latest blogs ➜ </a>
+  <a href="https://blog.arunshaw.in"> Checkout Latest Blogs ➜ </a>
 </p>
 
 <hr/>
