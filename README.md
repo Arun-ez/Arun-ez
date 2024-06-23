@@ -109,21 +109,17 @@
 
 </td><td valign="top" width="34%">
 
-### On my blog
-<!-- blog starts -->
-[Building](https://simonwillison.net/2024/Jun/21/search-based-rag/) - 2024-06-21
+### Backend
 
-[Weeknotes: Datasette Studio and a whole lot of blogging](https://simonwillison.net/2024/Jun/19/datasette-studio/) - 2024-06-19
+- React JS
+- Next JS
+- Redux
+- Express JS
+- ChakraUI
+- Tailwind CSS
+- AppWrite
+- Supabase
 
-[Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/) - 2024-06-17
-
-[A homepage redesign for my blog's 22nd birthday](https://simonwillison.net/2024/Jun/12/homepage-redesign/) - 2024-06-12
-
-[Thoughts on the WWDC 2024 keynote on Apple Intelligence](https://simonwillison.net/2024/Jun/10/apple-intelligence/) - 2024-06-10
-
-[Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/) - 2024-06-06
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
