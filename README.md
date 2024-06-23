@@ -124,6 +124,6 @@
 <hr/>
 
 <p align="center">
-  Grateful for your visit! Let's keep the coding spirit alive.
+  <b> Grateful for your visit! Let's keep the coding spirit alive </b>
 </p>
 
