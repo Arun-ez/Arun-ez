@@ -49,43 +49,45 @@
 <a href="https://g.dev/arunez" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v07c44c7c1b3fe607b0ea91e300f4cf82edbe2da6334f7664661c6358babdf558/developers/images/touchicon-180.png" alt="google_developers" height="25" width="25" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<table style="width:100%;">
+<table>
 
 <tr>
 
-<td valign="top" width="100%">
+<td valign="top" width="400px">
 
-### Frontend
+## Frontend
 
 - HTML
 - CSS
-- JavaScript, Node Js
+- JavaScript
+- React JS
+- Next JS
+- Redux
+- Tailwind CSS
+- Chakra Ui
+
+</td>
+
+<td valign="top" width="400px">
+
+## Backend
+
+- NodeJS
+- Express JS
+- MongoDB
 - Java
 
 </td>
 
-<td valign="top" width="100%">
-
-### Backend
-
-- React JS
-- Next JS
-- Redux
-- Express JS
-- ChakraUI
-- Tailwind CSS
-- AppWrite
-- Supabase
-
-</td>
-
-<td valign="top" width="100%">
+<td valign="top" width="400px">
 
 ### Tools
 
 - Aws
 - Git
 - Nginx
+- Appwrite
+- Supabase
 - Vercel
 - Netlify
 - Render
