@@ -99,9 +99,13 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
-<!-- recent_releases starts -->
-- datasette 0.64.8
+### Frontend
+
+- HTML
+- CSS
+- JavaScript, Node Js
+- Java
+
 
 </td><td valign="top" width="34%">
 
