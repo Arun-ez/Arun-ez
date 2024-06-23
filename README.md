@@ -101,7 +101,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - 2024-06-21
+[datasette 0.64.8]- 2024-06-21
 
 [llm-claude-3 0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - 2024-06-20
 
