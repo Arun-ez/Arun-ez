@@ -57,17 +57,39 @@
 
 ### Frontend
 
+- HTML
+- CSS
+- JavaScript, Node Js
+- Java
+
 </td>
 
 <td valign="top" width="34%">
 
 ### Backend
 
+- React JS
+- Next JS
+- Redux
+- Express JS
+- ChakraUI
+- Tailwind CSS
+- AppWrite
+- Supabase
+
 </td>
 
 <td valign="top" width="33%">
 
 ### Tools
+
+- Aws
+- Git
+- Nginx
+- Vercel
+- Netlify
+- Render
+- Postman
 
 </td>
 
