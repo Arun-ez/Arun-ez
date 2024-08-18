@@ -40,6 +40,8 @@
 - Express JS
 - MongoDB
 - Java
+- Prisma
+- EJS
 
 </td>
 
