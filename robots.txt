@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /_next/static/
+
+Sitemap: https://sitemap.arunshaw.in/www.xml
