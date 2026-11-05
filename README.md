@@ -21,10 +21,11 @@
 - JavaScript
 - React JS
 - Next JS
-- Redux
 - Tailwind CSS
+- Shadcn Ui
 - Chakra Ui
 - Flutter
+- Dart
 
 </td>
 
@@ -35,25 +36,24 @@
 - NodeJS
 - Express JS
 - MongoDB
-- Java
+- Firebase
+- AppWrite
+- Supabase
 - Prisma
-- EJS
+- Socket.IO
+- Redis
 
 </td>
 
 <td valign="top" width="400px">
 
-## Tools
+## DevOps
 
 - Aws
+- Oracle Cloud
 - Git
+- Docker
 - Nginx
-- Appwrite
-- Supabase
-- Vercel
-- Netlify
-- Render
-- Postman
 
 </td>
 
