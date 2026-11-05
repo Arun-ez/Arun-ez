@@ -61,17 +61,4 @@
 
 </table>
 
-### GitHub Analytics :
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-ez&theme=github_dark_dimmed&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Arun-ez&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-  </tr>
-</table>
-
 [![Alt Text](https://cdn.arunshaw.in/images/7efe0cb53eea405f9ce3545623b373da.jpg)](https://blog.arunshaw.in)
