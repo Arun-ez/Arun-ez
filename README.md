@@ -1,5 +1,5 @@
 # Arun Shaw
-<font size="2"> Hello! My name is Arun, and I am a skilled full stack web developer with comprehensive training from Masai School. My expertise spans both front-end and back-end development, allowing me to build seamless, user-friendly web applications from the ground up. At Masai School, I honed my abilities in modern programming languages, frameworks, and tools, equipping me with the technical proficiency and problem-solving skills necessary to tackle complex development challenges. I am passionate about creating innovative solutions that enhance user experiences and drive business success. </font>
+<font size="2"> Hello! My name is Arun, and I am a skilled full-stack developer specializing in mobile application development and web technologies. My expertise spans frontend and backend development, enabling me to build seamless, scalable, and user-friendly mobile and web applications from the ground up. I am passionate about developing innovative digital solutions, tackling complex technical challenges, and creating exceptional user experiences </font>
 
  | [🌏 Website](https://www.arunshaw.in) | [💡 Blogs](https://blog.arunshaw.in) | [📨 Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arunshaw433%40gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/arun-ez) | [💬 Whatsapp](https://wa.me/9748541891) |
   |-|-|-|-|-|
